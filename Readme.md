@@ -19,6 +19,7 @@ Installing mysqlclient library
 use below given commands to install mysqlclient library
 
 sudo apt-get update -y
+
 sudo apt-get install libmysqlclient-dev
 
 Installing and running code
