@@ -5,19 +5,8 @@ This software system is designed to increase the efficiency and performance of t
 Prerequisites
 A computer with Linux Operating system or any WSL linke Ubuntu in windows.
 An active internet connectivity.
-cmake, make and mysqlclient library (if not available follow instructions given below to install)
+mysqlclient library (if not available follow instructions given below to install)
 
-Installing cmake
-
-use below given command to install cmake if not 
-
-sudo apt-get install cmake
-
-Installing make
-
-use below given command to install make if not available
-
-sudo apt-get install make
 
 Installing mysqlclient library
 
