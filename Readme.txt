@@ -23,6 +23,7 @@ sudo apt-get install libmysqlclient-dev
 
 Installing and running code
 First change the directory to the folder in which sem file is present in ubuntu or linux terminal.
+Download sem file from here - https://mystuff.bublup.com/ui/landing_page?item_id=001-i-4ba4ae6f-1d78-448f-87c8-a9f477db4517
 Then run the following command -
 ./sem
 (for example if it is in C drive in Downloads folder enter cd /mnt/c/Downloads and then run ./sem) 
