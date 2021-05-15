@@ -31,7 +31,7 @@ Installing and running code
 
 First Download sem file from here - https://mystuff.bublup.com/ui/landing_page?item_id=001-i-4ba4ae6f-1d78-448f-87c8-a9f477db4517
 
-First change the directory to the folder in which sem file is present in ubuntu or linux terminal.
+Then change the directory to the folder in which sem file is present in ubuntu or linux terminal.
 
 Then run the following command -
 
